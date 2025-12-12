@@ -1,0 +1,60 @@
+Outlines - CSS - selectors - basic selectors - universal selector - type/element selector - id selector - class selector - attribute selector
+
+    Outlines
+    - CSS
+    - selectors
+        - basic selectors
+            - universal selector
+            - type/element selector
+            - id selector
+            - class selector
+            - attribute selector
+
+Color - background-color - color - border-color - shadow-color
+color system
+
+- rgb => red, green, blue => screen display
+- cmyk => cyan, magenta, yellow, black => print out(sticker, vinyl)
+
+Color
+
+- color-name
+- hexa-code
+- rgb()
+  Number System
+- binary -> base 2 (0 - 1)
+- octal -> base 8 (0 - 7)
+- decimal -> base 10 (0 - 9)
+- hexadecimal -> base 16 (0 - 9) (a - f) -> (0 - f)
+  Hexa-code -> rgb => #rrggbb ->
+  #ff0000 => #f00
+  #00ff00 => #0f0
+  #0000ff => #00f
+  #000000 => #000
+  #ffffff => #fff
+  #F4651E
+  rgb(red, green, blue)
+  (0 - 255, 0 - 255, 0 - 255)
+  rgb(255, 0, 0)
+  rgb(0, 255, 0)
+  rgb(0, 0, 255)
+  rgb(0, 0, 0)
+  rgb(255, 255, 255)
+
+Font properties
+
+- font-family
+- font-size
+- font-style
+- font-weight
+- line-height
+  font-family/ font group (computer system)
+  -serif => stroke => Times New Roman
+  -sans-serif => non-stroke => Arial
+  -monospace => one+space => fixed -width => Courier
+  -cursive => handwriting => Lucida Handwriting
+  -fantasy => Jokerman
+  font-size - px (Fixed unit) - % , em (relative unit) - rem (relative unit) - fr
+  font-style
+  -normal, italic, oblique
+  font-weight - normal, bold, bolder , 100, 200, 300, ... 900
